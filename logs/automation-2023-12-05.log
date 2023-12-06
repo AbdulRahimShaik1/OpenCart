@@ -1,0 +1,53 @@
+16:33:25.240 [main] INFO  testCases.TC_002_LoginTest - *****TC_002_LoginTest is Strating*****
+16:33:25.247 [main] DEBUG testCases.TC_002_LoginTest - Debugging is Starting ....
+16:33:25.825 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount
+16:33:26.218 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login in HomePage
+16:33:26.222 [main] INFO  testCases.TC_002_LoginTest - Login page is Opened
+16:33:26.223 [main] INFO  testCases.TC_002_LoginTest - Entering User Email ID and Password
+16:33:27.333 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login in LoginPage
+16:33:27.395 [main] INFO  testCases.TC_002_LoginTest - *****TC_002_LoginTest is Finished*****
+16:33:27.516 [main] DEBUG testCases.TC_002_LoginTest - Debugging is Completed
+11:48:53.264 [main] DEBUG testCases.TC_001_AccountRegistrationTest - detailed log of execution starts.....
+11:48:53.376 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****starting TC_001_AccountRegistrationTest*****
+11:48:54.511 [main] INFO  testCases.TC_001_AccountRegistrationTest - Cliked on MyAccount link
+11:48:55.481 [main] INFO  testCases.TC_001_AccountRegistrationTest - Cliked on Registration link
+11:48:55.531 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering user details....
+11:48:56.383 [main] INFO  testCases.TC_001_AccountRegistrationTest - Cliked on Privacy Policy button
+11:48:57.197 [main] INFO  testCases.TC_001_AccountRegistrationTest - Cliked on continue button
+11:48:57.355 [main] INFO  testCases.TC_001_AccountRegistrationTest - Getting the actual confirmation message after clicking on continue button
+11:48:57.356 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message with actual message..
+11:48:57.356 [main] ERROR testCases.TC_001_AccountRegistrationTest - test is failed..
+11:50:31.574 [main] INFO  testCases.TC_002_LoginTest - *****TC_002_LoginTest is Strating*****
+11:50:31.574 [main] DEBUG testCases.TC_002_LoginTest - Debugging is Starting ....
+11:50:31.858 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount
+11:50:32.173 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login in HomePage
+11:50:32.482 [main] INFO  testCases.TC_002_LoginTest - Login page is Opened
+11:50:32.482 [main] INFO  testCases.TC_002_LoginTest - Entering User Email ID and Password
+11:50:33.495 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login in LoginPage
+11:50:33.741 [main] INFO  testCases.TC_002_LoginTest - *****TC_002_LoginTest is Finished*****
+11:50:33.741 [main] DEBUG testCases.TC_002_LoginTest - Debugging is Completed
+11:57:18.706 [main] DEBUG testCases.TC_001_AccountRegistrationTest - detailed log of execution starts.....
+11:57:18.711 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****starting TC_001_AccountRegistrationTest*****
+11:57:19.008 [main] INFO  testCases.TC_001_AccountRegistrationTest - Cliked on MyAccount link
+11:57:19.637 [main] INFO  testCases.TC_001_AccountRegistrationTest - Cliked on Registration link
+11:57:19.643 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering user details....
+11:57:20.459 [main] INFO  testCases.TC_001_AccountRegistrationTest - Cliked on Privacy Policy button
+11:57:21.029 [main] INFO  testCases.TC_001_AccountRegistrationTest - Cliked on continue button
+11:57:21.081 [main] INFO  testCases.TC_001_AccountRegistrationTest - Getting the actual confirmation message after clicking on continue button
+11:57:21.081 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message with actual message..
+11:57:21.081 [main] ERROR testCases.TC_001_AccountRegistrationTest - test is failed..
+11:58:51.925 [main] INFO  testCases.TC_002_LoginTest - *****TC_002_LoginTest is Strating*****
+11:58:51.926 [main] DEBUG testCases.TC_002_LoginTest - Debugging is Starting ....
+11:58:52.041 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount
+11:58:52.384 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login in HomePage
+11:58:52.392 [main] INFO  testCases.TC_002_LoginTest - Login page is Opened
+11:58:52.392 [main] INFO  testCases.TC_002_LoginTest - Entering User Email ID and Password
+11:58:53.601 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login in LoginPage
+11:58:53.667 [main] INFO  testCases.TC_002_LoginTest - *****TC_002_LoginTest is Finished*****
+11:58:53.667 [main] DEBUG testCases.TC_002_LoginTest - Debugging is Completed
+12:07:11.254 [main] DEBUG testCases.TC_001_AccountRegistrationTest - detailed log of execution starts.....
+12:07:11.259 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****starting TC_001_AccountRegistrationTest*****
+12:07:11.470 [main] INFO  testCases.TC_001_AccountRegistrationTest - Cliked on MyAccount link
+12:07:12.416 [main] INFO  testCases.TC_001_AccountRegistrationTest - Cliked on Registration link
+12:07:12.422 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering user details....
+12:07:13.225 [main] INFO  testCases.TC_001_AccountRegistrationTest - Cliked on Privacy Policy button

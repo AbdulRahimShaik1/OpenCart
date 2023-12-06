@@ -1,0 +1,32 @@
+12:07:13.740 [main] INFO  testCases.TC_001_AccountRegistrationTest - Cliked on continue button
+12:07:13.915 [main] INFO  testCases.TC_001_AccountRegistrationTest - Getting the actual confirmation message after clicking on continue button
+12:07:13.915 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message with actual message..
+12:07:13.915 [main] ERROR testCases.TC_001_AccountRegistrationTest - test is failed..
+12:08:57.609 [main] INFO  testCases.TC_002_LoginTest - *****TC_002_LoginTest is Strating*****
+12:08:57.618 [main] DEBUG testCases.TC_002_LoginTest - Debugging is Starting ....
+12:08:57.910 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount
+12:08:58.314 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login in HomePage
+12:08:58.319 [main] INFO  testCases.TC_002_LoginTest - Login page is Opened
+12:08:58.319 [main] INFO  testCases.TC_002_LoginTest - Entering User Email ID and Password
+12:08:59.422 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login in LoginPage
+12:08:59.506 [main] INFO  testCases.TC_002_LoginTest - *****TC_002_LoginTest is Finished*****
+12:08:59.506 [main] DEBUG testCases.TC_002_LoginTest - Debugging is Completed
+12:12:10.846 [main] DEBUG testCases.TC_001_AccountRegistrationTest - detailed log of execution starts.....
+12:12:10.851 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****starting TC_001_AccountRegistrationTest*****
+12:12:11.048 [main] INFO  testCases.TC_001_AccountRegistrationTest - Cliked on MyAccount link
+12:12:12.899 [main] INFO  testCases.TC_001_AccountRegistrationTest - Cliked on Registration link
+12:12:12.904 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering user details....
+12:12:13.614 [main] INFO  testCases.TC_001_AccountRegistrationTest - Cliked on Privacy Policy button
+12:12:14.172 [main] INFO  testCases.TC_001_AccountRegistrationTest - Cliked on continue button
+12:12:14.226 [main] INFO  testCases.TC_001_AccountRegistrationTest - Getting the actual confirmation message after clicking on continue button
+12:12:14.226 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message with actual message..
+12:12:14.226 [main] ERROR testCases.TC_001_AccountRegistrationTest - test is failed..
+12:13:56.291 [main] INFO  testCases.TC_002_LoginTest - *****TC_002_LoginTest is Strating*****
+12:13:56.292 [main] DEBUG testCases.TC_002_LoginTest - Debugging is Starting ....
+12:13:56.969 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount
+12:13:57.403 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login in HomePage
+12:13:57.406 [main] INFO  testCases.TC_002_LoginTest - Login page is Opened
+12:13:57.406 [main] INFO  testCases.TC_002_LoginTest - Entering User Email ID and Password
+12:13:58.255 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login in LoginPage
+12:13:58.322 [main] INFO  testCases.TC_002_LoginTest - *****TC_002_LoginTest is Finished*****
+12:13:58.322 [main] DEBUG testCases.TC_002_LoginTest - Debugging is Completed
