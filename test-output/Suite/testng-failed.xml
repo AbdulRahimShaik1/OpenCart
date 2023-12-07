@@ -8,6 +8,13 @@
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
+      <class name="testCases.TC_002_LoginTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="verify_Login"/>
+        </methods>
+      </class> <!-- testCases.TC_002_LoginTest -->
       <class name="testCases.TC_001_AccountRegistrationTest">
         <methods>
           <include name="setup"/>

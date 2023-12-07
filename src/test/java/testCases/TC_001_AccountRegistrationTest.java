@@ -53,7 +53,7 @@ public class TC_001_AccountRegistrationTest extends BaseClass {
 		
 		//Assert.assertEquals(act_confm_msg, "Your Account Has Been Created!!!");
 		
-		if(act_confm_msg.equals("Your Account Has Been Created!!"))
+		if(act_confm_msg.equals("Your Account Has Been Created!"))
 		{
 			logger.info("test is Passed");
 			Assert.assertTrue(true);

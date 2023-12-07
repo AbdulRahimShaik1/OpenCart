@@ -49,7 +49,7 @@ public Properties p;
 					//to set/select Operating System on remote systems
 					if(opr_sys.equalsIgnoreCase("windows"))
 					{
-						capabilities.setPlatform(Platform.WIN11);
+						capabilities.setPlatform(Platform.WIN10);
 					}
 					else if(opr_sys.equalsIgnoreCase("mac"))
 					{
